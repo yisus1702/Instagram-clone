@@ -30,8 +30,8 @@ const SuggestedUsers = () => {
 
 			<Box fontSize={12} color={"gray.500"} mt={5} alignSelf={"start"}>
 				© 2024 Built By{" "}
-				<Link href='' target='_blank' color='blue.500' fontSize={14}>
-					Jesus Pizarro 
+				<Link href='https://github.com/yisus1702/Instagram-clone' target='_blank' color='blue.500' fontSize={14}>
+					Jesus Pizarro
 				</Link>
 			</Box>
 		</VStack>
